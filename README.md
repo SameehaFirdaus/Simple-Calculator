@@ -26,7 +26,7 @@ This is a simple calculator program written in C that performs basic arithmetic 
 ```
 Enter first number: 10
 Enter second number: 5
-Choose operation (+, -, *, /): +
+Choose the operation (+, -, *, /): +
 Result: 15
 ```
 
